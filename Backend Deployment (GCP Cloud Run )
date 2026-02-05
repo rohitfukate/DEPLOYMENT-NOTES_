@@ -1,0 +1,5 @@
+Dockerized backend
+
+Pushed via:
+gcloud builds submit --tag gcr.io/[PROJECT-ID]/inventory-backend
+gcloud run deploy --image gcr.io/[PROJECT-ID]/inventory-backend --platform managed
