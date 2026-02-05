@@ -1,0 +1,4 @@
+Connected GitHub repo → Automatic deploy
+
+.env added in Vercel:
+VITE_BACKEND_URL=https://inventory-backend-gcp.run.app
